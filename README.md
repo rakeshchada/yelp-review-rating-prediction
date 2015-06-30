@@ -39,5 +39,5 @@ You can view the notebooks in the IPython notebook viewer (see links below).
 * [NMF Model](http://nbviewer.ipython.org/github/chetannaik/predict-review-rating/blob/master/Model%20%5BNMF%20Model%5D.ipynb)
 
 #### Team Members:
-- Chetan Naik
 - Rakesh Chada
+- Chetan Naik

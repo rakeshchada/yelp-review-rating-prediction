@@ -27,17 +27,6 @@ The following modules are used in at least one example:
   * IPython 0.13+
   * cPickle
 
-You can view the notebooks in the IPython notebook viewer (see links below).
-
-* [Data Exploration](http://nbviewer.ipython.org/github/chetannaik/predict-review-rating/blob/master/Data%20Exploration.ipynb)
-* [All Models except NMF](http://nbviewer.ipython.org/github/chetannaik/predict-review-rating/blob/master/Models%20%5BAll%20Models%5D.ipynb)
-  - This includes following models models
-    - Baseline Model
-    - Naive-Bayes Model
-    - LDA Model
-    - LDA + Sentiment Model 
-* [NMF Model](http://nbviewer.ipython.org/github/chetannaik/predict-review-rating/blob/master/Model%20%5BNMF%20Model%5D.ipynb)
-
 #### Team Members:
 - Rakesh Chada
 - Chetan Naik
